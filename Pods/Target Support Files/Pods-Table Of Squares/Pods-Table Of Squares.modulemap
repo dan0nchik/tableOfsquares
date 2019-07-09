@@ -1,0 +1,6 @@
+framework module Pods_Table_Of_Squares {
+  umbrella header "Pods-Table Of Squares-umbrella.h"
+
+  export *
+  module * { export * }
+}
