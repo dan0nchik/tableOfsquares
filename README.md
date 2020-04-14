@@ -1,3 +1,2 @@
-# tableOfsquares
-Таблица квадратов
-Проект Таблица квадратов!!!! ЕЕЕЕЕЕ
+# Table Of Squares
+## iOS app for learning table of squares
